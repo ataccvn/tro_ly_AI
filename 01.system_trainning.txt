@@ -1,1 +1,475 @@
 Bạn là Phát ngôn viên, trợ lý AI của Bác sỹ Lương Thu Oanh, nhiệm vụ của bạn là hỗ trợ các Bồi thường viên của Công ty cổ phần tư vấn và hỗ trợ quản lý ATACC (ATACC). Bạn hãy cung cấp thông tin chi tiết và dễ hiểu về Hướng dẫn thanh toán tiền bảo hiểm cho các quyền lợi bảo hiểm tương ứng với Hướng dẫn chẩn đoán và điều trị các bệnh tương ứng, bao gồm các quy định liên quan đến trả tiền bảo hiểm như Bảo lãnh viện phí hoặc Bồi thường trực tiếp. Bạn cần giúp họ hiểu rõ phạm vi bảo hiểm sức khỏe; Các loại quyền lợi nào được trả tiền bảo hiểm; Các bệnh nào không được trả tiền bảo hiểm, và Các quy trình cần thiết để xử lý hồ sơ yêu cầu trả tiền bảo hiểm. Hãy đảm bảo rằng thông tin bạn cung cấp là chính xác, dễ tiếp cận và có thể giúp Bồi thường viên ra quyết định nhanh chóng để phục vụ khách hàng một cách hiệu quả nhất. Đừng ngần ngại giải thích các khái niệm phức tạp một cách đơn giản và rõ ràng, đồng thời cung cấp ví dụ cụ thể để minh họa cho các trường hợp khác nhau.
+
+
+
+
+SQUY TẮC BẢO HIỂM 
+TAI NẠN VÀ CHĂM SÓC SỨC KHOẺ TOÀN DIỆN 
+Tên thương mại: ABIC CARE 2021
+(Ban hành kèm theo Quyết định số 3599/2021/QĐ-ABIC-PHH ngày 09/07/2021 của Tổng giám đốc Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp đã được Bộ Tài chính Phê chuẩn theo 
+Công văn số 7206/BTC-QLBH ngày 01/07/2021)
+
+CHƯƠNG I: QUY ĐỊNH CHUNG
+Điều 1:	Các thuật ngữ và từ viết tắt
+Trong Quy tắc bảo hiểm này, các thuật ngữ và từ viết tắt dưới đây được quy định như sau:
+1.		“Doanh nghiệp bảo hiểm” là Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp và các Chi nhánh trực thuộc (sau đây gọi tắt là ABIC).
+2.		“Bên mua bảo hiểm” là tổ chức, cá nhân có quyền lợi có thể được bảo hiểm theo quy định của pháp luật, giao kết hợp đồng bảo hiểm với ABIC và đóng phí bảo hiểm theo điều kiện, điều khoản của Quy tắc bảo hiểm này.
+3.	
+
+
+3.1
+3.2
+3.3	“Người được bảo hiểm” là công dân Việt Nam hoặc người nước ngoài cư trú tại Việt Nam. ABIC không nhận bảo hiểm và không chịu trách nhiệm đối với các trường hợp:
+Người đang bị bệnh tâm thần, bệnh phong.
+Người bị thương tật toàn bộ vĩnh viễn.
+Người đang trong thời gian điều trị nội trú do bệnh tật hoặc thương tật (không áp dụng đối với bảo hiểm tái tục và Hợp đồng bảo hiểm nhóm).
+4.		“Người thụ hưởng” là tổ chức, cá nhân được Bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm theo quy định tại Hợp đồng bảo hiểm.
+5.		“Tuổi của Người được bảo hiểm” là tuổi căn cứ vào năm sinh (không tính đến ngày sinh và tháng sinh) được ghi trên Căn cước công dân/Chứng minh nhân dân/Giấy khai sinh/Hộ chiếu của Người được bảo hiểm.
+6.		“Hợp đồng bảo hiểm” là sự thỏa thuận giữa Bên mua bảo hiểm và ABIC, theo đó Bên mua bảo hiểm phải đóng phí bảo hiểm, ABIC phải trả tiền bảo hiểm khi có sự kiện bảo hiểm xảy ra trong phạm vi điều chỉnh của Quy tắc bảo hiểm này. 
+Hợp đồng bảo hiểm bao gồm: Quy tắc bảo hiểm tai nạn và chăm sóc sức khỏe toàn diện, Giấy yêu cầu bảo hiểm, Giấy khám sức khoẻ (nếu có), Giấy chứng nhận bảo hiểm và các tài liệu khác liên quan (nếu có).
+7.		“Hợp đồng bảo hiểm nhóm” là Hợp đồng bảo hiểm được ký kết giữa ABIC và bất kỳ công ty, doanh nghiệp, đoàn thể, hiệp hội, tổ chức tài trợ mà Người được bảo hiểm là các thành viên và người thân của họ, cụ thể các Loại Hợp đồng bảo hiểm nhóm như sau:
+7.1	Hợp đồng bảo hiểm Loại 1: Nhóm dưới 50 người.
+7.2	Hợp đồng bảo hiểm Loại 2: Nhóm từ 50 người đến 200 người.
+7.3	Hợp đồng bảo hiểm Loại 3: Nhóm từ trên 200 người đến 1.000 người.
+7.4	Hợp đồng bảo hiểm Loại 4: Nhóm trên 1.000 người.
+	Ngoài việc quy định Loại Hợp đồng bảo hiểm trên cơ sở số lượng người như trên, ABIC và Bên mua bảo hiểm căn cứ vào đặc thù của đối tượng bảo hiểm để thỏa thuận Loại Hợp đồng bảo hiểm nhóm.
+Đối với tổ chức có nhiều đơn vị trực thuộc mà mỗi đơn vị trực thuộc tham gia theo các Hợp đồng bảo hiểm nhóm khác nhau thì tổ chức đó được tính gộp số lượng Người được bảo hiểm để xác định Loại Hợp đồng bảo hiểm nhóm.
+8.		“Bảo hiểm tái tục” là khoảng thời hạn hiệu lực bảo hiểm vượt quá 12 tháng của các thời hạn hiệu lực bảo hiểm trước đó với nội dung chính thỏa mãn các điều kiện dưới đây hoặc khi có thỏa thuận khác:
+8.1	Người được bảo hiểm không thay đổi.
+8.2	Điều kiện bảo hiểm tương đương với điều kiện bảo hiểm Người được bảo hiểm đã tham gia đủ 12 tháng trước đó.
+8.3	Thời gian ngắt quãng giữa 02 thời hạn bảo hiểm liền kề không quá 30 ngày.
+8.4	Số tiền bảo hiểm nhỏ hơn hoặc bằng số tiền bảo hiểm đã tham gia trước đó. Trường hợp tham gia số tiền bảo hiểm lớn hơn số tiền bảo hiểm tham gia trước đó thì phần chênh lệch không được gọi là bảo hiểm tái tục.
+9.		“Cơ sở y tế” là cơ sở khám bệnh, chữa bệnh cố định hoặc lưu động được cấp giấy phép hoạt động cung cấp dịch vụ khám bệnh, chữa bệnh.
+10.		“Bệnh viện” là cơ sở khám bệnh, chữa bệnh hợp pháp có khả năng và phương tiện chẩn đoán bệnh, điều trị và phẫu thuật; có giấy phép điều trị nội trú, ngoại trú; không phải là nơi để nghỉ ngơi, điều dưỡng hay một cơ sở đặc biệt dành riêng cho người già, hoặc để cai nghiện rượu, ma túy, hoặc để điều trị rối loạn tâm thần, điều trị bệnh phong.
+11.		“Bác sĩ” là người hành nghề khám bệnh, chữa bệnh được nước sở tại cấp giấy phép hợp pháp và thực hiện khám bệnh, chữa bệnh trong phạm vi được đào tạo và giấy phép của mình. 
+12.		“Tai nạn” là sự kiện bất ngờ, không lường trước, xảy ra ngoài sự kiểm soát của Người được bảo hiểm, gây ra do tác động của bất kỳ vật chất, hoặc một lực từ bên ngoài, phát sinh trong thời hạn bảo hiểm.
+13.		“Thương tật toàn bộ vĩnh viễn” là tình trạng Người được bảo hiểm bị thương tật do tai nạn, bệnh tật, thai sản làm cản trở hoàn toàn và vĩnh viễn khi tham gia vào công việc của người đó hoặc bị mất hoàn toàn chức năng và không thể phục hồi được chức năng của một hay nhiều bộ phận của cơ thể.
+Các trường hợp Thương tật toàn bộ vĩnh viễn được liệt kê tại Phụ lục 3 Mục Thương tật toàn bộ vĩnh viễn hoặc các trường hợp có tỷ lệ tổn thương cơ thể trên 81% theo kết quả giám định y khoa, giám định pháp y của cơ quan có thẩm quyền.
+14.		“Thương tật bộ phận vĩnh viễn” là tình trạng thương tật do tai nạn làm cho Người được bảo hiểm bị mất, cắt, cụt, liệt, khuyết hoặc vĩnh viễn mất đi toàn bộ chức năng hoạt động của bất kỳ bộ phận nào trên cơ thể và không có khả năng phục hồi chức năng hoạt động của bộ phận cơ thể đó. 
+Các trường hợp Thương tật bộ phận vĩnh viễn được liệt kê tại Phụ lục 3 Mục Thương tật bộ phận vĩnh viễn.
+15.		“Bệnh tật” là tình trạng cơ thể có dấu hiệu của bệnh lý khác với tình trạng sức khỏe bình thường của Người được bảo hiểm (không bao gồm thai sản).
+16.		“Bệnh có sẵn” là tình trạng bệnh tật hoặc thương tật do tai nạn của Người được bảo hiểm có từ trước thời điểm bắt đầu có hiệu lực của Hợp đồng bảo hiểm. Việc xác định tình trạng có sẵn trên cơ sở kết luận của bác sĩ, hồ sơ y tế lưu trữ tại cơ sở y tế hoặc các thông tin do Bên mua bảo hiểm/Người được bảo hiểm tự kê khai.
+17.		“Bệnh đặc biệt” bao gồm Bệnh ung thư, U, bướu, nang (cyst/kyst); Bệnh tim, tăng/cao huyết áp, Tăng áp lực động mạch vô căn, các bệnh mạch máu não/đột quỵ và các hậu quả/di chứng của bệnh này; Viêm gan, Xơ gan, Suy gan; Sỏi trong các hệ thống tiết niệu và đường mật; Bệnh rối loạn chuyển hóa đường máu, mỡ máu, acid uric; Viêm/loét dạ dày, trào ngược dạ dày; Viêm/loét tá tràng; Viêm/loét đại tràng; Viêm/loét ruột các loại; Suy phổi, Tràn khí màng phổi; Bệnh liên quan tới hệ thống tạo máu; Viêm khớp; Lupus ban đỏ, vảy nến; Alzheimer, Hội chứng mất/giảm trí nhớ, Động kinh; Hội chứng rối loạn ngoại tháp.
+18.		“Bệnh bẩm sinh” là bệnh hay khuyết tật được hình thành trên thai nhi trong quá trình mang thai có thể được chuẩn đoán trước khi sinh hoặc có thể biểu hiện nhiều năm sau khi sinh. Bệnh bẩm sinh có thể là dị tật bẩm sinh, khuyết tật bẩm sinh, bất thường của nhiễm sắc thể. 
+19.		“Bệnh di truyền” là bệnh xuất hiện ở những người có cùng huyết thống hay sự chuyển những bệnh lý của bố, mẹ cho con cái thông qua gen của bố, mẹ và/hoặc được truyền từ đời này sang đời khác trong những người có cùng huyết thống.
+20.	
+20.1
+
+
+20.2
+
+
+
+
+     a.
+
+
+
+
+
+     b.
+
+	“Thai sản” bao gồm các trường hợp:
+Sinh con bao gồm sinh thường, sinh mổ, sinh khó bằng các can thiệp chuyên môn, sinh con có hỗ trợ sinh sản. 
+Biến chứng thai sản: Là các bất thường trong quá trình mang thai, tai biến sản khoa xảy ra ảnh hưởng đến sức khỏe của mẹ hoặc sự phát triển và sinh tồn của thai nhi cần thiết phải can thiệp y tế bằng thuốc điều trị hoặc thủ thuật/phẫu thuật trong khoảng thời gian mang thai hoặc sinh con, bao gồm các trường hợp:
+Bất thường trong quá trình mang thai: Thai ngừng phát triển, thai lưu, dọa xảy thai, xảy thai, chửa trứng, chửa ngoài tử cung, rau tiền đạo, rau bong non, doạ đẻ non, chửa tại vết mổ cũ hoặc các trường hợp bất thường ít gặp khác; Bệnh lý phát sinh do thai kỳ như đái tháo đường thai kỳ, cao huyết áp thai kỳ, nhiễm độc thai nghén.
+Tai biến sản khoa: Nhiễm trùng, hậu sản các loại, tiền sản giật, sản giật, doạ vỡ tử cung, vỡ tử cung, chảy máu sau đẻ, phù phổi cấp, thuyên tắc ối và các biến chứng của các nguyên nhân nêu trên.
+21.		“Chi phí y tế hợp lý” là những chi phí y tế phát sinh cần thiết cho việc khám, điều trị thương tật, bệnh tật, thai sản của Người được bảo hiểm và theo chỉ định của bác sĩ.
+22.		“Thuốc kê theo đơn” là những loại thuốc, dược phẩm được bán, sử dụng theo đơn của bác sĩ và theo quy định của pháp luật, không bao gồm thực phẩm chức năng, mỹ phẩm, thuốc hỗ trợ điều trị và các loại vitamin (trừ trường hợp thuốc hỗ trợ điều trị, các loại vitamin được dùng theo chỉ định của bác sĩ và chi phí cho thuốc hỗ trợ điều trị, các loại vitamin này không lớn hơn thuốc điều trị chính hoặc mỹ phẩm, thuốc hỗ trợ điều trị và các loại vitamin này được dùng như thuốc điều trị chính theo chỉ định của bác sĩ). 
+23.		“Điều trị trong ngày” là việc Người được bảo hiểm cần thiết phải nhập viện để điều trị y tế theo chỉ định của bác sĩ và có hoặc không phát sinh chi phí giường điều trị nhưng không phải ở lại bệnh viện qua đêm. Giấy ra viện hoặc Giấy xuất viện là một trong những chứng từ cần thiết để yêu cầu chi trả bảo hiểm cho quyền lợi này.
+24.		“Điều trị ngoại trú” là việc Người được bảo hiểm khám bệnh tại cơ sở y tế và cần thiết phải điều trị y tế theo chỉ định của bác sĩ mà không phải nằm viện.
+25.		“Điều trị nội trú” là việc Người được bảo hiểm khám và điều trị y tế có làm thủ tục nhập viện và nằm viện qua đêm. Giấy ra viện hoặc Giấy xuất viện là một trong những chứng từ cần thiết để yêu cầu chi trả bảo hiểm cho quyền lợi này.
+26.		“Phẫu thuật/thủ thuật” là một phương pháp khoa học để chẩn đoán, điều trị thương tật do tai nạn, bệnh tật, thai sản được thực hiện bởi phẫu thuật viên có bằng cấp thông qua những quy trình kỹ thuật phù hợp với các dụng cụ, trang thiết bị y tế tại cơ sở y tế (bao gồm các phương pháp mang lại kết quả tương đương phẫu thuật/thủ thuật). Danh mục phẫu thuật/thủ thuật theo quy định hiện hành của Bộ Y tế. 
+Đối với thủ thuật, ABIC chi trả quyền lợi bảo hiểm như sau:
+26.1
+    a.
+    b.	Trường hợp điều trị nội trú hoặc điều trị trong ngày:
+Thủ thuật điều trị loại đặc biệt được chi trả theo quyền lợi phẫu thuật.
+Thủ thuật chẩn đoán loại đặc biệt, thủ thuật chuẩn đoán hoặc điều trị loại 1, loại 2, loại 3 và các thủ thuật khác trong nội trú được chi trả theo chi phí y tế của quyền lợi nằm viện nhưng không vượt quá giới hạn theo ngày của đợt điều trị.
+26.2	Trường hợp thủ thuật khi điều trị ngoại trú được chi trả theo giới hạn quyền lợi điều trị ngoại trú.
+27.	
+
+
+
+27.1
+
+27.2
+
+     a.
+
+
+     b.
+
+
+
+
+
+     c.
+
+
+27.3	“Nằm viện” là việc Người được bảo hiểm cần thiết phải nhập viện để điều trị nội trú hoặc điều trị trong ngày tại bệnh viện, việc nằm viện phải diễn ra liên tục và không bị gián đoạn trong suốt thời gian kể từ khi nhập viện cho đến khi ra viện. Các trường hợp cụ thể:
+Trường hợp Người được bảo hiểm nằm điều trị trong ngày, ABIC chi trả quyền lợi theo 01 ngày nằm viện.
+Trường hợp Người được bảo hiểm điều trị nội trú, ABIC tính số ngày nằm viện như sau:
+Nếu giờ vào viện và giờ ra viện thể hiện trên Giấy ra viện hoặc chứng từ y tế nhưng ngày ra viện trừ ngày vào viện nhỏ hơn hoặc bằng 24 giờ, ABIC chi trả quyền lợi theo 01 ngày nằm viện.
+Nếu giờ vào viện và giờ ra viện thể hiện trên Giấy ra viện hoặc chứng từ y tế, ngày ra viện trừ ngày vào viện quá 24 giờ nhưng không tròn ngày thì số ngày nằm viện được xác định căn cứ vào ngày ra viện trừ ngày vào viện trên Giấy ra viện hoặc tính theo đơn vị giường điều trị trên bảng kê tùy theo số nào thấp hơn. Số ngày nằm viện sẽ được làm tròn đến số nguyên gần nhất, trường hợp lẻ nửa ngày trở lên được làm tròn thành 01 ngày.
+Nếu giờ vào viện và giờ ra viện không được thể hiện trên Giấy ra viện hoặc chứng từ y tế, thì số ngày nằm viện được xác định bằng ngày ra viện trừ ngày vào viện.
+Trong trường hợp bệnh viện không cấp được Giấy ra viện thì Tóm tắt bệnh án hoặc các chứng từ y tế khác thể hiện được thời gian điều trị sẽ được coi như chứng từ thay thế.
+28.		“Giường điều trị” hoặc “Phòng điều trị” là giường chuyên dụng dùng cho một người bệnh để nằm điều trị tại bệnh viện, không bao gồm giường cho người trực, giường cho người nhà, giường cho người chăm sóc.
+Đơn vị chi phí giường điều trị là các chi phí ngày giường nằm điều trị trong một phòng đơn có một giường bệnh hoặc có giá thấp nhất tại bệnh viện (không chi trả phòng bao, phòng tiếp khách, phòng tiện ích cá nhân khác) bao gồm cả phòng chăm sóc đặc biệt.
+29.		“Lần khám bệnh, chữa bệnh” là một lần Người được bảo hiểm đến cơ sở y tế để được bác sĩ thăm khám lâm sàng, xét nghiệm, chẩn đoán hình ảnh, thăm dò chức năng và chỉ định phác đồ điều trị bao gồm kê thuốc hoặc các phương pháp điều trị, không phụ thuộc vào số bệnh hay số bác sĩ khám và chẩn đoán điều trị, không phụ thuộc lần khám kết thúc trong một hay nhiều ngày, các trường hợp cụ thể:
+29.1
+
+29.2
+
+
+29.3
+
+
+29.4
+
+
+29.5
+
+
+29.6
+
+29.7	Trường hợp Người được bảo hiểm được nhiều bác sĩ chuyên khoa cùng hội chẩn thì chỉ được tính là một lần khám bệnh, chữa bệnh.
+Trường hợp Người được bảo hiểm khám một chuyên khoa nhiều lần trong ngày, tại một hay nhiều cơ sở y tế khác nhau có cùng một chẩn đoán hoặc kết luận bệnh thì chỉ được tính là một lần khám bệnh, chữa bệnh.
+Trường hợp Người được bảo hiểm đã khám bệnh có chẩn đoán bệnh và bác sĩ chỉ định phương pháp điều trị trong ngày thì kể từ ngày khám bệnh đến ngày kết thúc điều trị được tính là một lần khám bệnh, chữa bệnh.
+Trường hợp Người được bảo hiểm khám nhiều chuyên khoa trong một ngày có chẩn đoán hoặc kết luận bệnh khác nhau thì mỗi chuyên khoa được tính là một lần khám bệnh, chữa bệnh.
+Trường hợp tái khám ngay sau đó theo chỉ định của bác sĩ cho dù cần phải tiếp tục điều trị, theo dõi hay không cần điều trị sẽ được tính như một lần khám bệnh, chữa bệnh.
+Trường hợp ra viện không phải dùng thuốc điều trị liên tục ngay sau khi ra viện thì chỉ định tái khám được coi là một lần khám bệnh, chữa bệnh.
+Đối với trường hợp điều trị theo đợt (vật lý trị liệu, y học cổ truyền, châm cứu, bấm huyệt, khí rung, tiêm/truyền thuốc ngoại trú), số ngày điều trị theo chỉ định của bác sĩ được tính là một lần khám bệnh, chữa bệnh.
+30.		“Chi phí trước khi nhập viện” là các chi phí khám, thăm dò chức năng, chẩn đoán hình ảnh cơ bản và tiền thuốc theo chỉ định của bác sĩ, liên quan trực tiếp đến bệnh, thai sản cần thiết điều trị nội trú ngay sau đó, được thực hiện trong vòng 15 ngày trước khi nhập viện.
+Trường hợp khám ngoại trú sau đó phải nhập viện điều trị nội trú thì kết quả khám và cận lâm sàng được sử dụng để nhập viện sẽ được chuyển từ quyền lợi ngoại trú thành quyền lợi trước khi nhập viện, ABIC sẽ chi trả toàn bộ chi phí khám, điều trị trước đó theo quyền lợi trước khi nhập viện.
+31.		“Chi phí sau khi xuất viện” là các chi phí điều trị ngay sau khi xuất viện theo chỉ định của bác sĩ nhưng tối đa không quá 30 ngày và liên quan trực tiếp đến điều trị nội trú trước đó, bao gồm chi phí tái khám, xét nghiệm cơ bản, chẩn đoán hình ảnh, thăm dò chức năng và tiền thuốc. 
+32.		“Chi phí chăm sóc y tế tại nhà” là các chi phí của nhân viên y tế được cấp giấy phép hoạt động và thực hiện dịch vụ y tế tại nhà để chăm sóc cho Người được bảo hiểm ngay sau khi ra viện, tối đa không vượt quá 15 ngày (không bao gồm chi phí đi lại của nhân viên y tế). Dịch vụ này phải được thực hiện theo chỉ định của bác sĩ vì lý do cần chăm sóc theo đặc thù của phác đồ đang điều trị cho bệnh đó (chỉ áp dụng đối với các trường hợp có thời gian điều trị nội trú tối thiểu 07 ngày).
+33.		“Điều trị phục hồi chức năng” là phương pháp nhằm mục đích khôi phục lại tình trạng bình thường và/hoặc chức năng sinh lý sau tổn thương cấp tính hoặc do bệnh, tai nạn kể từ khi người bệnh được bác sĩ chỉ định chuyển sang điều trị tại chuyên khoa phục hồi chức năng. Đây không phải là phương pháp điều trị y tế nhằm mục đích làm giảm triệu chứng hoặc khỏi bệnh.
+34.		“Vật lý trị liệu” là phương pháp điều trị bằng cách sử dụng các tác nhân vật lí tự nhiên hay nhân tạo như nước, không khí, nhiệt độ, khí hậu, độ cao, sóng điện, tia X, tia cực tím, tia hồng ngoại, siêu âm, các chất đồng vị phóng xạ, xoa bóp trị liệu không bao gồm phương pháp nhằm mục đích thư giãn, spa, chỉnh hình thẩm mỹ. Các phương pháp này được thực hiện tại cơ sở y tế theo chỉ định của bác sĩ.
+35.		“Bộ phận giả” là các bộ phận/thiết bị/chất liệu được làm giả để thay thế cho các bộ phận của cơ thể nhằm duy trì sự sống, thay thế hoặc hỗ trợ chức năng của cơ thể. 
+36.		“Trang thiết bị y tế hỗ trợ điều trị” là các trang thiết bị, dụng cụ y tế được sử dụng để điều trị trực tiếp hay hỗ trợ điều trị làm giảm nhẹ đau đớn và bệnh tật, hỗ trợ vận động hoặc các chức năng khác của cơ thể, bao gồm:
+36.1	Các trang thiết bị, dụng cụ y tế có tính chất đặc thù, chỉ sử dụng riêng cho một số loại hình điều trị và phẫu thuật nhất định, sử dụng một lần và không khấu hao, như dao cắt trĩ trong phương pháp mổ Longo, máy cắt hút Hummer, dao mổ Plasma, dao mổ Coblator, các loại lưỡi dao bào Shaver, các loại dao đốt trong phẫu thuật nội soi dây chằng, rọ tán sỏi, dao cắt gan siêu âm và các loại dao siêu âm khác.
+36.2	Các loại máy cắt đốt hay điều trị bằng sóng cao tần sử dụng riêng cho một số loại hình điều trị và phẫu thuật kỹ thuật cao, có khấu hao như máy phát sóng cao tần RF, máy phát sóng radio cao tần Coblator trong phẫu thuật Amidan và nạo VA, máy phát sóng cao tần FUS-MRI trong điều trị u xơ tử cung, máy tán sỏi ngoài cơ thể.
+36.3
+
+a.
+
+b.	Các thiết bị, dụng cụ được đặt/cấy/trồng vào bất cứ một bộ phận nào của cơ thể để hỗ trợ cho chức năng hoạt động của bộ phận đó như:
+Stent, máy tạo nhịp tim, máy khử rung tim (ICD), van tim, bóng nong, lưới thoát vị bẹn.
+Đinh, nẹp, vít, đĩa đệm, chốt treo.
+36.4	Các thiết bị bên ngoài cơ thể, có tác dụng hỗ trợ chức năng vận động hoặc các chức năng khác của cơ thể như nạng, nẹp, xe lăn, thiết bị trợ thính, kính thuốc, máy hỗ trợ tim.
+36.5	Các trang thiết bị y tế hỗ trợ điều trị khác ngoài các thiết bị được liệt kê ở trên.
+37.		“Dịch vụ xe cứu thương” là việc sử dụng xe ô tô cứu thương của cơ sở y tế hợp pháp trong trường hợp Người được bảo hiểm trong tình trạng nguy kịch ảnh hưởng đến tính mạng buộc phải đưa người bệnh đến cơ sở y tế gần nhất hoặc từ cơ sở y tế này đến cơ sở y tế khác (không phải là dịch vụ vận chuyển bằng đường hàng không).
+38.		“Hoạt động thể thao chuyên nghiệp” là các hoạt động thể thao mang lại thu nhập chính và thường xuyên cho Người được bảo hiểm.
+39.		“Hoạt động thể thao nguy hiểm” là các hoạt động hàng không (trừ khi với tư cách là hành khách); các môn thể thao bay lượn trên không, nhảy dù; các môn thể thao mùa đông như trượt băng, trượt tuyết, hockey trên băng; lặn dưới nước có sử dụng các thiết bị lặn, lướt ván, đấu vật, các cuộc đua (không bao gồm các cuộc đua mang tính chất từ thiện, các cuộc đua mang tính chất nội bộ do đơn vị tổ chức).
+40.		“Đồng chi trả” là phần chi phí mà ABIC và Người được bảo hiểm thỏa thuận chi trả theo tỷ lệ khi phát sinh chi phí y tế thuộc phạm vi bảo hiểm được quy định tại Hợp đồng bảo hiểm. Phần chi trả của ABIC được tính theo tỷ lệ phần trăm (%) trên tổng số tiền chi phí y tế phát sinh thuộc phạm vi bảo hiểm hoặc trên các mức giới hạn phụ của quyền lợi bảo hiểm tùy theo mức nào thấp hơn thì được áp dụng hoặc theo thỏa thuận của các bên và được quy định rõ tại Hợp đồng bảo hiểm. Giới hạn chi phí do ABIC chi trả tối đa bằng hạn mức quyền lợi bảo hiểm được quy định trong Hợp đồng bảo hiểm.
+Điều 2:	Phí bảo hiểm và Số tiền bảo hiểm
+	Biểu phí và Số tiền bảo hiểm được quy định tại Phụ lục 2 đính kèm theo Quy tắc bảo hiểm này.
+Phí bảo hiểm được thanh toán theo quy định của pháp luật hiện hành. 
+Điều 3:	Bảo hiểm trùng 
+	Trong trường hợp chi phí y tế liên quan tới cùng thương tật, bệnh tật, thai sản được bảo hiểm theo Quy tắc bảo hiểm này có thể đòi quyền lợi bảo hiểm từ những Quy tắc bảo hiểm khác, ABIC chỉ thanh toán khoản tiền chênh lệch vượt quá mức được chi trả quyền lợi bảo hiểm theo các Quy tắc bảo hiểm khác đó hoặc theo tỷ lệ giữa Số tiền bảo hiểm của Quy tắc bảo hiểm này với Tổng số tiền bảo hiểm/Giới hạn trách nhiệm của tất cả Quy tắc bảo hiểm khác trừ khi tham gia Điều khoản bổ sung 008/CSSK. 
+CHƯƠNG II: PHẠM VI BẢO HIỂM VÀ QUYỀN LỢI BẢO HIỂM
+Điều 4:	Phạm vi lãnh thổ
+ABIC nhận bảo hiểm trong các trường hợp Người được bảo hiểm bị tai nạn, bệnh tật, thai sản và những chi phí y tế liên quan phát sinh trong lãnh thổ Việt Nam (trừ khi tham gia Điều khoản bổ sung 001/CSSK).
+Điều 5:	Phạm vi bảo hiểm
+Trừ những trường hợp loại trừ trách nhiệm bảo hiểm quy định tại Điều 9, Điều 10, Điều 11 ABIC nhận bảo hiểm trong các trường hợp cụ thể sau:
+1.		Điều kiện A: Người được bảo hiểm bị tử vong, thương tật toàn bộ vĩnh viễn do bệnh tật, thai sản kể từ thời điểm phát sinh trách nhiệm bảo hiểm và trong thời hạn bảo hiểm.
+2.		Điều kiện B: Người được bảo hiểm bị tử vong, thương tật toàn bộ vĩnh viễn, thương tật bộ phận vĩnh viễn do tai nạn kể từ thời điểm phát sinh trách nhiệm bảo hiểm và trong thời hạn bảo hiểm.
+3.		Điều kiện C: Các chi phí y tế hợp lý phát sinh kể từ thời điểm phát sinh trách nhiệm bảo hiểm và trong thời hạn bảo hiểm để khám, chẩn đoán và điều trị thương tật thân thể do tai nạn xảy ra đối với Người được bảo hiểm.
+4.		Điều kiện D: Các chi phí y tế hợp lý phát sinh kể từ thời điểm phát sinh trách nhiệm và trong thời hạn bảo hiểm để khám, chẩn đoán và điều trị bệnh tật, biến chứng thai sản khi Người được bảo hiểm phải nằm viện điều trị nội trú và/hoặc phẫu thuật.  
+Điều 6:	Quyền lợi bảo hiểm
+1.		Điều kiện A
+1.1 	Trường hợp Người được bảo hiểm bị tử vong, thương tật toàn bộ vĩnh viễn do bệnh tật, thai sản thuộc phạm vi bảo hiểm, ABIC chi trả toàn bộ Số tiền bảo hiểm theo Điều kiện A ghi trong Hợp đồng bảo hiểm.
+1.2	Khi xảy ra sự kiện bảo hiểm làm phát sinh trách nhiệm của ABIC theo quy định tại Điểm 1.1, Khoản 1, Điều 6, Hợp đồng bảo hiểm sẽ tự động chấm dứt hiệu lực.
+2.		Điều kiện B
+2.1	Trường hợp Người được bảo hiểm bị tử vong, thương tật toàn bộ vĩnh viễn do tai nạn thuộc phạm vi bảo hiểm, ABIC chi trả toàn bộ Số tiền bảo hiểm theo Điều kiện B ghi trong Hợp đồng bảo hiểm.
+2.2	Trường hợp Người được bảo hiểm bị thương tật bộ phận vĩnh viễn do tai nạn thuộc phạm vi bảo hiểm, ABIC chi trả căn cứ vào Tỷ lệ trả tiền bảo hiểm quy định cho thương tật bộ phận vĩnh viễn đó được quy định tại Phụ lục 3 và Số tiền bảo hiểm theo Điều kiện B ghi trong Hợp đồng bảo hiểm.
+2.3	Khi xảy ra thương tật bộ phận vĩnh viễn làm phát sinh trách nhiệm của ABIC theo quy định tại Điểm 2.2, Khoản 2, Điều 6, Hợp đồng bảo hiểm tiếp tục duy trì với đầy đủ quyền lợi và nghĩa vụ theo Hợp đồng bảo hiểm. 
+2.4	Khi xảy ra sự kiện bảo hiểm làm phát sinh trách nhiệm của ABIC theo quy định tại Điểm 2.1, Khoản 2, Điều 6, Hợp đồng bảo hiểm sẽ tự động chấm dứt hiệu lực.
+3.		Điều kiện C
+	Trường hợp Người được bảo hiểm bị thương tật thân thể do tai nạn xảy ra trong thời hạn bảo hiểm, phát sinh các chi phí y tế điều trị (bao gồm cả điều trị nội trú và ngoại trú) thuộc phạm vi bảo hiểm, ABIC sẽ chi trả toàn bộ chi phí y tế thực tế và hợp lý, chi phí thuê xe cứu thương nhưng không vượt quá Số tiền bảo hiểm theo Điều kiện C được ghi trong Hợp đồng bảo hiểm cho 01 năm bảo hiểm.
+Đối với trang thiết bị y tế hỗ trợ điều trị quy định tại Tiết b, Khoản 36, Điều 1 ABIC chi trả tối đa 50% Số tiền bảo hiểm theo Điều kiện C trừ trường hợp tham gia Điều khoản bổ sung 010/CSSK.
+4.		Điều kiện D
+4.1	Trường hợp nằm viện: Trường hợp Người được bảo hiểm phải nằm viện do bệnh tật, biến chứng thai sản thuộc phạm vi bảo hiểm, ABIC sẽ chi trả các chi phí y tế hợp lý cụ thể như sau:
+-	Chi phí giường điều trị/ngày đối với khoa dịch vụ theo yêu cầu của bệnh viện công lập, bệnh viện tư nhân, bệnh viện quốc tế, tiền giường bệnh được chi trả thực tế hoặc giới hạn ở giá thấp nhất của dịch vụ 01 giường điều trị/phòng tương ứng tại cơ sở y tế đó mà không trả cho phòng đặc biệt, phòng bao.
+-	Chi phí tiền phòng bao gồm phòng chăm sóc đặc biệt (ICU); phòng chăm sóc liên tục (HDU); phòng cách ly y tế.
+-	Chi phí tiền ăn theo tiêu chuẩn cho bệnh nhân tại cơ sở y tế.
+-	Chi phí y tế hợp lý theo phương pháp điều trị cụ thể do bác sĩ chỉ định.
+-	Cận lâm sàng bao gồm xét nghiệm, chẩn đoán bằng hình ảnh như X-quang, MRI, CT, PET thăm dò chức năng, siêu âm, nội soi (các cận lâm sàng này phải do bác sĩ chỉ định là biện pháp cần thiết để theo dõi đánh giá, chẩn đoán tình trạng bệnh và phải là một phần của chi phí điều trị nằm viện, điều trị nội trú hoặc điều trị trong ngày).
+-	Thuốc kê theo đơn của bác sĩ.
+-	Dịch truyền, cao phân tử, máu và chế phẩm trong khi nằm viện.
+-	Vật lý trị liệu (nếu được thực hiện tại bệnh viện, nhằm góp phần điều trị toàn diện, cần thiết cho quá trình điều trị theo chỉ định của bác sĩ).
+-	Các trang thiết bị y tế hỗ trợ điều trị quy định tại Điểm 36.1, 36.2, Tiết a, Điểm 36.3 Khoản 36, Điều 1: ABIC chi trả tối đa 20% số tiền bảo hiểm theo Điều kiện D trừ trường hợp tham gia Điều khoản bổ sung 010/CSSK.
+-	Các chi phí y tế liên quan khác theo chỉ định của bác sĩ.
+	Tổng các chi phí trên tối đa không quá giới hạn cho mỗi ngày điều trị quy định tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm. Tổng số ngày điều trị được xét chi trả quyền lợi bảo hiểm không quá 60 ngày/01 năm bảo hiểm và tổng số tiền không vượt quá số tiền bảo hiểm quy định của quyền lợi bảo hiểm nằm viện.
+4.2	Trường hợp phẫu thuật: Trường hợp Người được bảo hiểm phải phẫu thuật và nằm viện điều trị nội trú thuộc phạm vi bảo hiểm, ABIC sẽ chi trả toàn bộ các chi phí hội chẩn, gây mê/tê, hồi sức, chi phí phẫu thuật bao gồm cả phẫu thuật cấy ghép nội tạng (không bảo hiểm cho chi phí mua các bộ phận nội tạng và chi phí hiến nội tạng) và các chi phí y tế hợp lý phát sinh trong phòng mổ. Giới hạn chi trả cho trường hợp phẫu thuật được quy định tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm. Trường hợp phẫu thuật ngoại trú không được chi trả trong quyền lợi này.
+4.3	Các quyền lợi bảo hiểm khác
+-	Chi phí trước khi nhập viện.
+-	Chi phí sau khi xuất viện.
+-	Chi phí y tá chăm sóc tại nhà.
+-	Điều trị phục hồi chức năng.
+-	Trợ cấp nằm viện.
+Giới hạn của từng quyền lợi được quy định tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm.
+4.4	Tổng số tiền chi trả theo các Điểm 4.1, 4.2, 4.3 Khoản 4, Điều 6 sẽ không vượt quá Số tiền bảo hiểm theo Điều kiện D được quy định tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm.
+4.5	Chi phí hỗ trợ, gồm:
+-	Dịch vụ xe cứu thương.
+-	Trợ cấp mai táng trong trường hợp tử vong tại bệnh viện.
+Giới hạn của từng quyền lợi được quy định tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm.
+CHƯƠNG III: THỜI HẠN BẢO HIỂM VÀ HIỆU LỰC BẢO HIỂM
+Điều 7:	Thời hạn bảo hiểm, hiệu lực bảo hiểm
+Thời hạn bảo hiểm, hiệu lực bảo hiểm là 01 năm hoặc theo thỏa thuận. Thời hạn bảo hiểm, hiệu lực bảo hiểm được ghi cụ thể trong Hợp đồng bảo hiểm.
+Điều 8:	Quy định về thời gian chờ
+	Thời gian chờ là khoảng thời gian được tính từ thời điểm bắt đầu của thời hạn bảo hiểm mà trong thời gian đó phát sinh rủi ro thì Người được bảo hiểm sẽ không được hưởng quyền lợi bảo hiểm. Thời gian chờ được quy định cụ thể như sau:
+1.		Đối với rủi ro bệnh tật (không bao gồm các trường hợp tại Khoản 2, 4, 5 Điều 8): Thời gian chờ là 30 ngày.
+2.		Đối với Người được bảo hiểm dưới 6 tuổi điều trị bệnh viêm phế quản, viêm tiểu phế quản, viêm phổi các loại: Thời gian chờ là 180 ngày.
+3.		Đối với biến chứng thai sản: Thời gian chờ là 90 ngày.
+4.		Đối với bệnh đặc biệt, bệnh có sẵn (không bao gồm trường hợp tử vong): Thời gian chờ là 365 ngày.
+5.		Tử vong do bệnh đặc biệt, bệnh có sẵn: Thời gian chờ là 730 ngày kể từ thời điểm bắt đầu của thời hạn bảo hiểm của Hợp đồng bảo hiểm đầu tiên và không áp dụng đối với bảo hiểm tái tục từ năm thứ 3 trở đi.
+Lưu ý: Trường hợp Người được bảo hiểm tham gia bảo hiểm tái tục thì thời điểm bắt đầu của thời hạn bảo hiểm được tính là thời điểm bắt đầu của thời hạn bảo hiểm của Hợp đồng bảo hiểm đầu tiên mà Người được bảo hiểm tham gia.
+6.		Quy định thời gian chờ áp dụng đối với Hợp đồng bảo hiểm nhóm như sau:
+6.1	Đối với Hợp đồng bảo hiểm Loại 1: Áp dụng theo quy định từ Khoản 1 đến khoản 5 Điều 8.
+6.2
+6.2.1
+
+6.2.2
+
+6.2.3
+
+6.2.4
+
+6.2.5	Đối với Hợp đồng bảo hiểm Loại 2: 
+Đối với rủi ro bệnh tật (không bao gồm các trường hợp tại Điểm 6.2.2, 6.2.4, 6.2.5 Khoản 6.2, Điều 8):  Không áp dụng thời gian chờ.
+Đối với Người được bảo hiểm dưới 6 tuổi điều trị bệnh viêm phế quản, viêm tiểu phế quản, viêm phổi các loại: Không áp dụng thời gian chờ.
+Trường hợp biến chứng thai sản: Không áp dụng thời gian chờ, tuy nhiên ABIC chi trả quyền lợi bảo hiểm theo tỷ lệ giữa số ngày có hiệu lực và 90 ngày.
+Đối với bệnh đặc biệt, bệnh có sẵn (không bao gồm trường hợp tử vong): Thời gian chờ là 365 ngày.
+Tử vong do bệnh đặc biệt, bệnh có sẵn: Sau 365 ngày kể từ ngày đầu tiên của thời hạn bảo hiểm.
+6.3
+
+6.3.1
+	Đối với Hợp đồng bảo hiểm Loại 3: Không áp dụng thời gian chờ đối với tất cả các trường hợp, tuy nhiên:
+Trường hợp biến chứng thai sản: ABIC chi trả quyền lợi bảo hiểm theo tỷ lệ giữa số ngày có hiệu lực và 90 ngày.
+6.4	Đối với Hợp đồng bảo hiểm Loại 4: Không áp dụng thời gian chờ đối với tất cả các trường hợp.
+CHƯƠNG IV: LOẠI TRỪ TRÁCH NHIỆM BẢO HIỂM
+Điều 9:	Loại trừ trách nhiệm bảo hiểm (áp dụng chung cho Điều kiện A, B, C, D và các Điều khoản bổ sung)
+	ABIC không chịu trách nhiệm chi trả quyền lợi bảo hiểm trong các trường hợp sau:
+1.		Hành vi cố ý gây thiệt hại đối với sức khỏe, tính mạng cho Người được bảo hiểm của Bên mua bảo hiểm, Người được bảo hiểm, Người thụ hưởng. Trong trường hợp một hoặc một số Người thụ hưởng cố ý gây ra cái chết hay thương tật toàn bộ vĩnh viễn cho Người được bảo hiểm, ABIC có quyền từ chối chi trả quyền lợi cho người có hành vi cố ý đó, nhưng ABIC vẫn phải trả tiền bảo hiểm cho những Người thụ hưởng khác theo thoả thuận trong Hợp đồng bảo hiểm.
+2.		Người được bảo hiểm vi phạm pháp luật phải thụ án hình sự; tham gia vào các hoạt động bất hợp pháp, tham gia đánh nhau trừ trường hợp được xác nhận là hành động phòng vệ chính đáng.
+3.		Người được bảo hiểm bỏ trốn, mất tích (trừ trường hợp Tòa án có quyết định tuyên bố Người được bảo hiểm đã chết do tai nạn trong thời hạn bảo hiểm).
+4.		Hậu quả của động đất, sóng thần, núi lửa phun, nhiễm phóng xạ, vũ khí sinh học, vũ khí hóa học, chiến tranh, nội chiến, bạo động, khủng bố và các sự kiện mang tính chất chiến tranh khác.
+5.		Người được bảo hiểm bị ảnh hưởng bởi ma túy, chất gây nghiện, thuốc cai nghiện, các chất kích thích khác mà pháp luật cấm sử dụng và đây là nguyên nhân trực tiếp dẫn đến tai nạn hoặc bệnh tật.
+6.		Khám, điều trị, phẫu thuật, theo yêu cầu của Người được bảo hiểm mà không phải khám, điều trị và phẫu thuật theo phác đồ quy trình thông thường của ngành y tế. Sử dụng thuốc không phải thuốc kê theo đơn của bác sĩ, điều trị không được y học công nhận, điều trị thử nghiệm. Các hình thức phòng bệnh và sử dụng thuốc phòng ngừa (trừ trường hợp phải phòng ngừa sau khi bị tai nạn hay súc vật, côn trùng cắn).
+7.		Chi phí y tế liên quan đến điều trị răng trừ khi tham gia Điều khoản bổ sung 003/CSSK
+8.		Trường hợp sinh con trừ khi tham gia Điều khoản bổ sung 004/CSSK.
+9.		Chi phí mua, bảo dưỡng, sửa chữa các bộ phận giả.
+10.		Chi phí mua, bảo dưỡng, sửa chữa các trang thiết bị y tế hỗ trợ điều trị quy định tại Điểm 36.4, 36.5, Khoản 36, Điều 1 Quy tắc bảo hiểm này trừ trường hợp tham gia Điều khoản bổ sung 010/CSSK.
+11.		Chi phí khám bệnh, chẩn đoán, làm các xét nghiệm cận lâm sàng nhưng chưa có kết luận bệnh lý cụ thể hoặc đã có kết luận bệnh nhưng Người được bảo hiểm chưa điều trị ngay hoặc có chỉ định theo dõi/khám định kỳ trừ khi tham gia Điều khoản bổ sung 006/CSSK.
+12.		Bất kỳ tai nạn, bệnh tật, thai sản và những chi phí phát sinh ngoài lãnh thổ Việt Nam trừ khi tham gia Điều khoản bổ sung 001/CSSK.
+13.		Khám, làm các xét nghiệm theo chỉ định của bác sĩ nhưng không phải mục đích điều trị bệnh tật, thai sản hoặc thương tật theo kết luận của bác sĩ trừ khi tham gia Điều khoản bổ sung 009/CSSK.
+14.		Các trường hợp xảy ra trong thời gian chờ theo quy định tại Quy tắc bảo hiểm này.
+Điều 10:	Loại trừ trách nhiệm bảo hiểm áp dụng riêng cho Điều kiện B và C
+	ABIC không chịu trách nhiệm chi trả quyền lợi bảo hiểm trong các trường hợp Người được bảo hiểm tham gia hoạt động thể thao chuyên nghiệp, hoạt động thể thao nguy hiểm và đây là nguyên nhân trực tiếp dẫn đến rủi ro phát sinh trừ khi tham gia Điều khoản bổ sung 007/CSSK.
+Điều 11:	Loại trừ trách nhiệm bảo hiểm áp dụng riêng cho Điều kiện A, D và Điều khoản bổ sung 002/CSSK.
+1.		Điều trị, phẫu thuật cho các bệnh bẩm sinh, bệnh di truyền và mọi biến chứng, hậu quả liên quan đến những bệnh này. 
+2.		Điều trị bệnh thuộc rối loạn tâm thần, rối loạn hành vi, rối loạn tâm lý, rối loạn thiếu tập trung, bệnh chậm phát triển, tự kỷ. Điều trị rối loạn giấc ngủ, mất ngủ, ngủ ngáy không rõ nguyên nhân, suy nhược cơ thể (không có nguyên nhân bệnh lý), hội chứng căng thẳng, stress hoặc các bệnh liên quan đến hội chứng đó.
+3.		Các hình thức thẩm mỹ, phẫu thuật thẩm mỹ, chỉnh hình, kể cả nhằm mục đích tái tạo để phục hồi chức năng của cơ quan bị tổn thương.
+4.		Điều trị kiểm soát trọng lượng cơ thể hoặc chiều cao, còi xương, suy dinh dưỡng, béo phì, rối loạn sắc tố da, rụng tóc và hậu quả hoặc biến chứng liên quan đến các điều trị trên.
+5.		Kiểm tra sức khỏe định kỳ (nội trú hoặc ngoại trú); khám sức khỏe tổng quát, tầm soát ung thư kết quả bình thường, giám định y khoa hoặc tư vấn y tế không liên quan đến điều trị bệnh, thai sản hoặc thương tật; xét nghiệm định kỳ; khám định kỳ cho trẻ mới sinh.
+6.		Chờ
+7.		Các sản phẩm vitamin hoặc khoáng chất, thực phẩm chức năng, các loại thuốc bổ sung cho chế độ dinh dưỡng, ăn kiêng, mỹ phẩm (trừ trường hợp vitamin hoặc khoáng chất được bác sĩ chỉ định để điều trị các bệnh/triệu chứng được xác định do thiếu hụt vitamin hoặc hỗ trợ điều trị bệnh với điều kiện chi phí cho vitamin, khoáng chất không lớn hơn chi phí thuốc điều trị).
+8.		Kế hoạch hóa gia đình, điều trị bất lực, rối loạn/suy giảm chức năng sinh dục, liệu pháp thay đổi hóc môn, thay đổi giới tính hay bất cứ hậu quả hoặc biến chứng nào của các điều trị trên. Các biến chứng từ phương pháp điều trị vô sinh, hỗ trợ sinh sản trong vòng 03 tháng đầu của thai kỳ (nghĩa là từ tuần không (0) đến khi kết thúc tuần thứ mười hai (12)).
+9.		Các bệnh lây truyền qua đường tình dục như bệnh giang mai, bệnh lậu; AIDS và các hội chứng suy giảm miễn dịch.
+10.		Điều trị các rối loạn liên quan đến tuổi tác; lão suy; liệu pháp hocmon thay thế thời kỳ tiền mãn kinh, mãn kinh, tiền mãn dục, mãn dục và bất cứ hậu quả hoặc biến chứng nào của điều trị trên.
+CHƯƠNG V: CHẤM DỨT HỢP ĐỒNG BẢO HIỂM
+Điều 12:	Chấm dứt Hợp đồng bảo hiểm
+1.		Trong thời hạn bảo hiểm, ABIC hoặc Bên mua bảo hiểm có quyền yêu cầu chấm dứt Hợp đồng bảo hiểm trước thời hạn. Bên yêu cầu chấm dứt phải thông báo bằng văn bản cho bên kia biết trước 15 ngày kể từ ngày dự định chấm dứt. Nếu Bên mua bảo hiểm yêu cầu chấm dứt, ABIC sẽ hoàn lại tối thiểu 70% phí bảo hiểm của thời gian còn lại (sau khi trừ các khoản chi phí hợp lý hợp lệ khác) với điều kiện trong thời hạn bảo hiểm chưa có khiếu nại nào được ABIC chấp nhận chi trả quyền lợi bảo hiểm. Nếu ABIC yêu cầu chấm dứt, ABIC sẽ hoàn trả 100% phí bảo hiểm của thời gian còn lại. 
+2.		Các trường hợp khác theo quy định của pháp luật.
+3.		Khi chấm dứt Hợp đồng bảo hiểm, phí bảo hiểm được tính trên cơ sở số ngày tham gia bảo hiểm thực tế theo biểu phí ngắn hạn, dài hạn.
+CHƯƠNG VI: THỦ TỤC GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM
+Điều 13:	Thời hạn yêu cầu giải quyết quyền lợi bảo hiểm
+1.		Khi xảy ra sự kiện bảo hiểm, Người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo ngay cho ABIC và trong vòng 60 ngày phải thông báo bằng văn bản (theo mẫu của ABIC) trừ trường hợp có lý do chính đáng.
+2.		Thời hạn yêu cầu giải quyết quyền lợi bảo hiểm là 01 năm kể từ ngày xảy ra sự kiện bảo hiểm, trừ trường hợp chậm trễ do nguyên nhân khách quan và bất khả kháng theo quy định của pháp luật. Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan khác không tính vào thời hạn yêu cầu giải quyết quyền lợi bảo hiểm.
+Điều 14:	Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm
+	Người yêu cầu giải quyết quyền lợi bảo hiểm phải cung cấp cho ABIC những giấy tờ sau để làm thủ tục giải quyết quyền lợi bảo hiểm, bao gồm:
+1.	Bản gốc Giấy yêu cầu giải quyết quyền lợi bảo hiểm (theo mẫu của ABIC).
+2.	Bản sao hợp lệ Giấy chứng nhận bảo hiểm (nếu có) hoặc bản trích sao danh sách Người được bảo hiểm.
+3.	Bản sao hợp lệ Giấy chứng tử (trường hợp tử vong).
+4.	Bản chính hoặc bản sao hợp lệ Giấy tờ hợp pháp chứng minh quyền thụ hưởng quyền lợi bảo hiểm.
+5.	Bản chính hoặc bản sao hợp lệ Biên bản tai nạn có xác nhận của cơ quan và/hoặc chính quyền địa phương hoặc công an nơi xảy ra tai nạn (trường hợp tai nạn).
+6.	Bản chính các chứng từ liên quan đến việc điều trị: Giấy ra/vào viện, trích sao/tóm tắt bệnh án, chỉ định, kết quả cận lâm sàng (xét nghiệm, chẩn đoán hình ảnh, thăm dò chức năng), toa thuốc/đơn thuốc, giấy chứng nhận phẫu thuật/phiếu mổ, các chứng từ y tế có liên quan khác. Trường hợp không cung cấp được bản chính có thể cung cấp bản sao công chứng hoặc bản sao có xác nhận đã đối chiếu bản chính của cán bộ ABIC.
+7.	Chứng từ liên quan đến việc thanh toán chi phí y tế: Bản chính hóa đơn, biên lai, phiếu thu, bảng kê liên quan tới khám bệnh, chữa bệnh. Trường hợp Người được bảo hiểm tham gia nhiều Quy tắc bảo hiểm liên quan đến phần chi phí y tế, khi thanh toán phần vượt quá của các Quy tắc bảo hiểm khác, ABIC chấp nhận chi trả căn cứ vào hóa đơn bản phô tô (có ảnh chụp hoặc bản scan hóa đơn gốc để đối chiếu) và xác nhận của doanh nghiệp bảo hiểm đã chi trả cho phần chi phí y tế theo Quy tắc bảo hiểm khác.
+8.	Các giấy tờ cần thiết khác (nếu có) có liên quan đến việc giải quyết quyền lợi bảo hiểm phù hợp với quy định của pháp luật.
+	CHƯƠNG VII: GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM
+Điều 15:	Giải quyết quyền lợi bảo hiểm
+1.		Khi xảy ra sự kiện bảo hiểm, ABIC có trách nhiệm giải quyết quyền lợi bảo hiểm theo thời hạn đã thỏa thuận trong Hợp đồng bảo hiểm, trong trường hợp không có thỏa thuận về thời hạn thì ABIC có trách nhiệm giải quyết quyền lợi bảo hiểm trong vòng 15 ngày kể từ ngày nhận được hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm đầy đủ và hợp lệ theo quy định tại Điều 14 Quy tắc bảo hiểm này.
+2.		Trường hợp từ chối chi trả quyền lợi bảo hiểm, ABIC phải thông báo bằng văn bản cho Người yêu cầu giải quyết quyền lợi bảo hiểm biết lý do từ chối trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm đầy đủ và hợp lệ.
+Điều 16:	Áp dụng giảm trừ trong giải quyết quyền lợi bảo hiểm
+ABIC sẽ giảm trừ một phần số tiền chi trả quyền lợi bảo hiểm (không áp dụng đối với quyền lợi trợ cấp mai táng phí) tùy theo mức độ vi phạm trong các trường hợp sau đây:
+1.		Giảm trừ 5% số tiền chi trả quyền lợi bảo hiểm trong trường hợp thông báo sự kiện bảo hiểm quá thời gian quy định tại Khoản 1 Điều 13 Quy tắc bảo hiểm này (trừ trường hợp do nguyên nhân khách quan và bất khả kháng).
+2.		Giảm trừ 20% số tiền chi trả quyền lợi bảo hiểm trong trường hợp nguyên nhân dưới đây là nguyên nhân trực tiếp dẫn đến tai nạn, cụ thể:
+2.1	Người được bảo hiểm điều khiển xe cơ giới vi phạm các hành vi sau đây (chỉ áp dụng đối với Người điều khiển xe, không áp dụng đối với người ngồi trên xe):
+a.	Không có giấy phép lái xe theo quy định.
+b.	Sử dụng rượu bia có nồng độ cồn vi phạm quy định của pháp luật.
+c.	Đi vào đường cấm, khu vực cấm, đua xe.
+d.	Vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định về vận chuyển hàng hóa nguy hiểm, vận chuyển hàng cấm.
+2.2	Người được bảo hiểm vi phạm nội quy của cơ quan theo Luật lao động.
+3.		Giảm trừ 20% trong trường hợp ABIC có đủ tài liệu chứng minh Người được bảo hiểm cố tình che giấu thông tin về thời gian, diễn biến, quá trình điều trị tai nạn, bệnh tật dẫn đến ABIC tốn kém nhân lực, chi phí để xác minh, thu thập tài liệu.
+4.		Trường hợp áp dụng nhiều mức giảm trừ, tổng số tiền giảm trừ không vượt quá 30%.
+	CHƯƠNG VIII: QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
+Điều 17:	Quyền và nghĩa vụ của Bên mua bảo hiểm, Người được bảo hiểm
+1.		Quyền của Bên mua bảo hiểm, Người được bảo hiểm
+1.1	Yêu cầu ABIC giải thích các điều kiện, điều khoản bảo hiểm, cấp Hợp đồng bảo hiểm hoặc Giấy chứng nhận bảo hiểm.
+1.2	Yêu cầu ABIC trả tiền bảo hiểm cho Người thụ hưởng hoặc Người được bảo hiểm theo thỏa thuận trong Hợp đồng bảo hiểm khi xảy ra sự kiện bảo hiểm. 
+1.3	Trong trường hợp ABIC cố ý cung cấp thông tin sai sự thật nhằm giao kết Hợp đồng bảo hiểm thì Bên mua bảo hiểm có quyền đơn phương đình chỉ thực hiện Hợp đồng bảo hiểm, ABIC phải bồi thường thiệt hại phát sinh cho Bên mua bảo hiểm do việc cung cấp thông tin sai sự thật.
+1.4	Các quyền khác theo quy định của pháp luật.
+2.		Nghĩa vụ của Bên mua bảo hiểm, Người được bảo hiểm
+2.1	Đóng phí bảo hiểm đầy đủ.
+2.2	Cung cấp đầy đủ và trung thực tất cả những thông tin có liên quan đến việc giao kết và thực hiện Hợp đồng bảo hiểm theo yêu cầu của ABIC đồng thời chịu hoàn toàn trách nhiệm về những thông tin đã cung cấp.
+2.3	Khi xảy ra rủi ro, Người được bảo hiểm, Bên mua bảo hiểm, Người thụ hưởng phải áp dụng mọi biện pháp cần thiết có thể để ngăn ngừa hạn chế tổn thất, chấp hành nội quy, quy chế tại cơ sở y tế, chỉ định điều trị của người hành nghề khám bệnh, chữa bệnh.  
+2.4	Người yêu cầu giải quyết quyền lợi bảo hiểm có nghĩa vụ thu thập và cung cấp cho ABIC các giấy tờ cần thiết và các thông tin có liên quan theo yêu cầu của ABIC một cách trung thực, chính xác, kịp thời và đầy đủ. Đồng thời tạo điều kiện thuận lợi cho ABIC tiến hành xác minh nguyên nhân, hậu quả rủi ro.
+2.5	Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 18:	Quyền và nghĩa vụ của ABIC
+1.		Quyền của ABIC
+1.1	Thu phí bảo hiểm theo thỏa thuận trong Hợp đồng bảo hiểm
+1.2	Yêu cầu Bên mua bảo hiểm cung cấp đầy đủ, trung thực thông tin liên quan đến việc giao kết và thực hiện Hợp đồng bảo hiểm.
+1.3	Từ chối trả tiền bảo hiểm cho Người thụ hưởng hoặc cho Người được bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm hoặc trường hợp loại trừ trách nhiệm bảo hiểm theo quy định tại Quy tắc bảo hiểm này.
+1.4	Yêu cầu Bên mua bảo hiểm áp dụng các biện pháp đề phòng, hạn chế tổn thất theo quy định của pháp luật.
+1.5	Các quyền khác theo quy định của pháp luật.
+2.		Nghĩa vụ của ABIC
+2.1	Giới thiệu, tư vấn và giải thích cho Bên mua bảo hiểm về điều kiện, điều khoản bảo hiểm, quyền, nghĩa vụ của Bên mua bảo hiểm.
+2.2	Cấp cho Bên mua bảo hiểm Giấy chứng nhận bảo hiểm (nếu có) ngay sau khi giao kết Hợp đồng bảo hiểm.
+2.3	Trả tiền bảo hiểm cho Người thụ hưởng hoặc Người được bảo hiểm khi xảy ra sự kiện bảo hiểm.
+2.4	Giải thích bằng văn bản lý do từ chối trả tiền bảo hiểm.
+2.5	Các nghĩa vụ khác theo quy định của pháp luật.
+
+CHƯƠNG IX: GIẢI QUYẾT TRANH CHẤP
+Điều 19:	Giải quyết tranh chấp
+	Mọi tranh chấp phát sinh liên quan đến Quy tắc bảo hiểm này trước hết phải được giải quyết thông qua thương lượng giữa các bên. 
+Nếu không giải quyết được bằng thương lượng, một trong các bên có quyền khởi kiện tại Tòa án có thẩm quyền giải quyết ở Việt Nam theo quy định của pháp luật.
+Luật áp dụng cho việc giải quyết các tranh chấp này là pháp luật Việt Nam. Phán quyết của Tòa án có giá trị cuối cùng bắt buộc các bên thực hiện. Bên thua kiện phải chịu mọi lệ phí và chi phí khác phát sinh theo phán quyết của Toà án.
+Điều 20:	Thời hiệu khởi kiện
+	Thời hiệu khởi kiện về Hợp đồng bảo hiểm là 03 năm, kể từ thời điểm phát sinh tranh chấp. Quá thời hạn trên, mọi khiếu nại không còn giá trị.
+                                
+                               					TỔNG GIÁM ĐỐC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phụ lục 1: CÁC ĐIỀU KHOẢN BỔ SUNG
+(Ban hành kèm theo Quyết định số 3599/2021/QĐ-ABIC-PHH ngày 09/07/2021 
+của Tổng giám đốc Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp)
+
+
+	Các Điều khoản bổ sung sau đây là một bộ phận không thể tách rời Quy tắc bảo hiểm này.
+Bên mua bảo hiểm có thể lựa chọn các Điều khoản bổ sung dưới đây để được tăng thêm quyền lợi bảo hiểm và được ghi cụ thể trong Hợp đồng bảo hiểm. Khi tham gia Điều khoản bổ sung Bên mua bảo hiểm cần kê khai đầy đủ nội dung yêu cầu vào Giấy yêu cầu bảo hiểm để ABIC làm cơ sở tính phí bảo hiểm và chi trả quyền lợi bảo hiểm.
+I	Điều khoản bổ sung 001/CSSK: Mở rộng phạm vi địa lý
+	ABIC sẽ chi trả cho Người được bảo hiểm đối với các rủi ro khi xảy ra ngoài lãnh thổ Việt Nam.
+	Lưu ý:
+	-	Chỉ chấp nhận tham gia mở rộng phạm vi địa lý khi Người được bảo hiểm tham gia đồng thời với phạm vi trong lãnh thổ Việt Nam.
+
+
+	-	Các trường hợp rủi ro xảy ra ngoài lãnh thổ Việt Nam, hồ sơ yêu cầu trả tiền bảo hiểm và các tài liệu có liên quan khi gửi cho ABIC phải được dịch sang bản Tiếng Việt phù hợp.  
+II	Điều khoản bổ sung 002/CSSK: Bảo hiểm điều trị ngoại trú 
+		1.	Phạm vi và quyền lợi bảo hiểm
+ABIC sẽ chi trả cho Người được bảo hiểm các chi phí y tế phát sinh để khám và điều trị ngoại trú do bệnh tật, biến chứng thai sản trong thời hạn bảo hiểm, bao gồm:
+1.1	Chi phí khám bệnh, thuốc theo kê đơn của bác sĩ (hoá đơn tiền thuốc phải thể hiện đúng số lượng thuốc và liều thuốc do bác sĩ chỉ định), chi phí cận lâm sàng bao gồm chẩn đoán hình ảnh, thăm dò chức năng và làm các xét nghiệm cần thiết theo chỉ định của bác sĩ để chẩn đoán và điều trị.
+1.2	Vật lý trị liệu, trị liệu học bức xạ, liệu pháp ánh sáng và các phương pháp điều trị khác do bác sĩ chỉ định.
+1.3	Chi phí phẫu thuật ngoại trú, nội soi chẩn đoán.
+	Giới hạn trách nhiệm các quyền lợi được quy định cụ thể tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm.
+2.	Thời gian chờ 
+2.1	Đối với rủi ro bệnh tật (không bao gồm trường hợp tại Khoản 2.3, 2.4 dưới đây): Thời gian chờ là 30 ngày.
+2.2	Đối với trường hợp biến chứng thai sản: Thời gian chờ là 90 ngày.
+2.3	Đối với Người được bảo hiểm dưới 6 tuổi điều trị bệnh viêm phế quản, viêm tiểu phế quản, viêm phổi các loại: Thời gian chờ là 180 ngày.
+2.4	Đối với bệnh đặc biệt, bệnh có sẵn: Thời gian chờ là 365 ngày.
+2.5
+2.5.1
+
+2.5.2	Đối với Hợp đồng bảo hiểm nhóm quy định như sau:
+Hợp đồng bảo hiểm Loại 1: Áp dụng theo quy định từ Khoản 2.1 đến 2.4, Mục 2 của Điều khoản bổ sung 002/CSSK.
+Hợp đồng bảo hiểm Loại 2 đến Loại 4: Không áp dụng thời gian chờ.
+III	Điều khoản bổ sung 003/CSSK: Bảo hiểm nha khoa
+1.
+
+
+	Phạm vi bảo hiểm và quyền lợi bảo hiểm: ABIC sẽ chi trả cho Người được bảo hiểm đối với các chi phí y tế chăm sóc và điều trị răng phát sinh trong thời hạn bảo hiểm (bao gồm nội trú và ngoại trú), cụ thể như sau:
+-	Khám, chụp X quang và chẩn đoán bệnh.
+-	Lấy cao răng.
+-	Trám (hàn) răng bằng các chất liệu thông thường (amalgam hoặc composite hoặc các chất liệu khác tương đương).
+-	Nhổ răng bệnh lý, nhổ chân răng (bao gồm phẫu thuật).
+-	Chữa tủy răng.
+-	Điều trị viêm nướu, viêm nha chu.
+-	Phẫu thuật cắt chóp răng.
+-	Các bệnh lý khác về răng theo kết luận của bác sĩ.
+Giới hạn trách nhiệm quyền lợi nha khoa được quy định cụ thể tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm.
+2.	Thời gian chờ: 
+-	30 ngày đối với trường hợp bệnh răng thông thường.
+-	180 ngày đối với sâu răng, cạo vôi răng thông thường; cắt chóp răng.
+-	Hợp đồng bảo hiểm nhóm: Không áp dụng thời gian chờ.
+IV	Điều khoản bổ sung 004/CSSK: Bảo hiểm sinh con 
+1.	Phạm vi và quyền lợi bảo hiểm: ABIC sẽ chi trả cho Người được bảo hiểm chi phí sinh con tại các cơ sở y tế phát sinh trong thời hạn bảo hiểm (không bao gồm sinh mổ theo yêu cầu của Người được bảo hiểm), cụ thể như sau:
+1.1	Thời gian chi trả tính từ ngày sinh con. Trường hợp nhập viện nhiều ngày để chờ sinh con thì thời gian chi trả được tính từ 01 ngày trước khi sinh con.
+1.2	Giới hạn trách nhiệm của quyền lợi này được quy định cụ thể tại Phụ lục 2 Bảng quyền lợi bảo hiểm, Số tiền bảo hiểm và Biểu phí bảo hiểm.
+2.
+2.1
+2.1.1
+
+2.1.2
+
+2.1.3	Thời gian chờ: là 270 ngày kể từ ngày đầu tiên của thời hạn bảo hiểm.
+Đối với Hợp đồng bảo hiểm nhóm quy định như sau:
+Hợp đồng bảo hiểm nhóm Loại 1: 270 ngày kể từ ngày đầu tiên của thời hạn bảo hiểm
+Hợp đồng bảo hiểm nhóm Loại 2 và Loại 3: Không áp dụng thời gian chờ, tuy nhiên ABIC chi trả quyền lợi bảo hiểm theo tỷ lệ giữa số ngày có hiệu lực và 270 ngày
+Hợp đồng bảo hiểm nhóm Loại 4: Không áp dụng thời gian chờ.
+V	Điều khoản bổ sung 005/CSSK: Trợ cấp mất giảm thu nhập do tai nạn
+1.	Quyền lợi bảo hiểm 
+ABIC sẽ chi trả cho Người được bảo hiểm số tiền theo thỏa thuận để bù cho khoản thu nhập bị mất cho thời gian nghỉ làm trong thời hạn bảo hiểm để điều trị thương tật do tai nạn thuộc phạm vi bảo hiểm. Thời gian hưởng trợ cấp được tính theo số ngày nghỉ thực tế và không quá Thời hạn trả tiền được ghi trong Hợp đồng bảo hiểm.
+Cách tính số tiền trợ cấp mất giảm thu nhập do tai nạn: Số tiền bảo hiểm (theo Điều khoản bổ sung 005/CSSK)/Thời hạn trả tiền (ngày) x Số ngày nghỉ thực tế.
+Số tiền trợ cấp mất giảm thu nhập không vượt quá tiền lương đáng lẽ được hưởng.
+2.	Một số quy định cụ thể
+2.1	Số ngày nghỉ được hưởng trợ cấp bao gồm cả ngày thứ bảy, chủ nhật và ngày lễ.
+2.2	Số ngày nghỉ phải có chỉ định của bác sĩ và xác nhận của bộ phận nhân sự.
+2.3	Nếu Người được bảo hiểm bị hai hay nhiều tai nạn gây ra thương tật và thời gian bị thương tật do những tai nạn đó trùng nhau thì Người được bảo hiểm sẽ chỉ được hưởng một lần trợ cấp cho thời gian điều trị thương tật.
+2.4	Bồi thường trợ cấp mất giảm thu nhập sẽ kết thúc khi Người được bảo hiểm được coi là đã hồi phục có thể làm lại được công việc trước đây hoặc được bác sĩ thông báo là đã phục hồi sức khoẻ, cho dù thực tế họ đã quay lại tiếp tục thực hiện công việc đó hay chưa.
+VI	Điều khoản bổ sung 006/CSSK: Bảo hiểm chi phí khám bệnh 
+ABIC sẽ chi trả cho Người được bảo hiểm đối với các chi phí khám bệnh, chẩn đoán, làm các xét nghiệm cận lâm sàng trong thời hạn bảo hiểm nhưng chưa có kết luận bệnh lý cụ thể hoặc đã có kết luận bệnh nhưng Người được bảo hiểm chưa điều trị ngay hoặc có chỉ định theo dõi/khám định kỳ.
+Giới hạn số lần chi trả: 02 lần/năm bảo hiểm. Mỗi chẩn đoán chỉ được chi trả 01 lần.
+VII	Điều khoản bổ sung 007/CSSK: Bảo hiểm đối với hoạt động thể thao chuyên nghiệp, hoạt động thể thao nguy hiểm
+	ABIC sẽ chi trả bảo hiểm đối với các rủi ro xảy ra trong thời hạn bảo hiểm khi Người được bảo hiểm tham gia hoạt động thể thao chuyên nghiệp, hoạt động thể thao nguy hiểm theo Quy tắc bảo hiểm này.
+VIII	Điều khoản bổ sung 008/CSSK: Không áp dụng bảo hiểm trùng
+Trong trường hợp Người được bảo hiểm tham gia bảo hiểm tại Quy tắc bảo hiểm khác đối với chi phí y tế liên quan tới cùng thương tật, bệnh tật, thai sản được bảo hiểm theo Quy tắc bảo hiểm này. ABIC sẽ không áp dụng điều khoản bảo hiểm trùng theo quy định tại Điều 3 Quy tắc bảo hiểm này.
+Khi Người được bảo hiểm tham gia Điều khoản bổ sung này, hồ sơ bồi thường tại Khoản 7, Điều 14 được quy định như sau: Bản chính hóa đơn, biên lai, phiếu thu, bảng kê liên quan tới khám bệnh, chữa bệnh. Trường hợp Người được bảo hiểm không cung cấp được bản chính, ABIC chấp nhận chi trả căn cứ vào hóa đơn bản sao.
+IX	Điều khoản bổ sung 009/CSSK: Bảo hiểm chi phí kiểm tra, tầm soát
+ABIC sẽ chi trả cho Người được bảo hiểm đối với các chi phí khám bệnh, chẩn đoán, làm các xét nghiệm cận lâm sàng trong thời hạn bảo hiểm do bác sĩ chỉ định nhưng không phải mục đích điều trị cho bệnh tật, thai sản hoặc thương tật theo kết luận của bác sĩ.
+Giới hạn số lần chi trả: 02 lần/năm bảo hiểm. 
+X	Điều khoản bổ sung 010/CSSK: Bảo hiểm trang thiết bị y tế hỗ trợ điều trị
+ABIC sẽ chi trả cho Người được bảo hiểm tối đa 100% Số tiền bảo hiểm đối với các chi phí mua, bảo dưỡng, sửa chữa các trang thiết bị y tế hỗ trợ điều trị trong thời hạn bảo hiểm theo chỉ định của bác sĩ quy định tại Khoản 36 Điều 1, Quy tắc bảo hiểm này.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

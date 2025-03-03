@@ -494,27 +494,20 @@ Lưu ý:
 - Trong vòng 30 ngày kể từ ngày khách hàng khai báo sự kiện bảo hiểm qua Ứng dụng bồi thường ONLINE, nếu khách hàng không chuyển hồ sơ gốc thì ATACC sẽ thông báo đóng hồ sơ.
 
 - Khách hàng bổ sung hồ sơ đầy đủ theo hướng dẫn trước khi chuyển hồ sơ về ATACC để giải quyết. Trong trường hợp hồ sơ không đầy đủ ATACC căn cứ theo chứng từ thực tế để giải quyết;
+
 HƯỚNG DẪN BỒI THƯỜNG
 
 Hướng dẫn hồ sơ yêu cầu trả tiền bảo hiểm
-
-<p style="text-align: center;"><span style="color: #993366;"><strong>HƯỚNG DẪN BỒI THƯỜNG</strong></span></p>
-<a style="font-size: 14px;" href="https://atacc.com.vn/tailieu/1Huongdanchung.pdf"><strong>Hướng dẫn hồ sơ yêu cầu trả tiền bảo hiểm</strong></a>
-<ul>
-	<li><strong>Tài liệu liên quan</strong></li>
-	<li><a href="https://atacc.com.vn/tailieu/HuongdanAPP.pdf">Download: Hướng dẫn cài Ứng dụng bồi thường ONLINE (APP ATACC)</a></li>
-	<li><a href="https://atacc.com.vn/tailieu/2Huongdanbaolanh.pdf">Download: Hướng dẫn bảo lãnh viện phí</a></li>
-	<li><a href="https://atacc.com.vn/tailieu/3Huongdanyeucautratienbaohiem.pdf">Download: Hướng dẫn thủ tục yêu cầu chi trả tiền bảo hiểm trực tiếp</a></li>
-	<li><a href="https://atacc.com.vn/tailieu/4Giayyeucauboithuong.pdf">Download: Giấy yêu cầu trả tiền bảo hiểm</a></li>
-	<li><a href="https://atacc.com.vn/tailieu/6Bantuongtrinhtainan.pdf">Download: Biên bản tường trình tai nạn</a></li>
-	<li><a href="https://atacc.com.vn/tailieu/7Xacnhanbaolanhtudu.pdf">Download: Biên bản xác nhận bảo lãnh bệnh viện Từ dũ</a></li>
-</ul>
-<ul>
-	<li style="list-style-type: none;"></li>
-	<li><a href="https://atacc.com.vn/tailieu/8DanhsachcosoytebaolanhvienphiATACC.pdf"><strong>Danh sách cơ sở y tế bảo lãnh viện phí</strong></a></li>
-</ul>
-
-
+HƯỚNG DẪN BỒI THƯỜNG
+https://atacc.com.vn/tailieu/1Huongdanchung.pdf Hướng dẫn hồ sơ yêu cầu trả tiền bảo hiểm
+	Tài liệu liên quan
+	https://atacc.com.vn/tailieu/HuongdanAPP.pdf Download: Hướng dẫn cài Ứng dụng bồi thường ONLINE (APP ATACC)
+	https://atacc.com.vn/tailieu/2Huongdanbaolanh.pdf Download: Hướng dẫn bảo lãnh viện phí
+	https://atacc.com.vn/tailieu/3Huongdanyeucautratienbaohiem.pdf Download: Hướng dẫn thủ tục yêu cầu chi trả tiền bảo hiểm trực tiếp
+	https://atacc.com.vn/tailieu/4Giayyeucauboithuong.pdf Download: Giấy yêu cầu trả tiền bảo hiểm
+	https://atacc.com.vn/tailieu/6Bantuongtrinhtainan.pdf Download: Biên bản tường trình tai nạn
+	https://atacc.com.vn/tailieu/7Xacnhanbaolanhtudu.pdf Download: Biên bản xác nhận bảo lãnh bệnh viện Từ dũ
+	https://atacc.com.vn/tailieu/8DanhsachcosoytebaolanhvienphiATACC.pdf Danh sách cơ sở y tế bảo lãnh viện phí
 
 
 
